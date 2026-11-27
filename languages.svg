@@ -134,10 +134,10 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #3178c6; 
-  width: 75.666%;
+  width: 75.667%;
 " class="progress-item"></span><span style="
   background-color: #41b883; 
-  width: 18.296%;
+  width: 18.295%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 3.789%;
@@ -201,7 +201,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vue</span>
-  <span class="percent">18.30%</span>
+  <span class="percent">18.29%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
